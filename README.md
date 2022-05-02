@@ -1,8 +1,8 @@
 # Furuta_Pendulum
-MECA 482 Project
+  MECA 482-01 
+  Furuta Pendulum Project
+    By: William Jochum, Alex Lawhon, Brendan Ruddy, Ceara Sobecki, Anthony Van Boekel
 
-## Cover Sheet
-  Project Name, Names of member, and section number
 ## Introduction
   Description of problem and the system you are proposing(use references)
 ## Modeling
