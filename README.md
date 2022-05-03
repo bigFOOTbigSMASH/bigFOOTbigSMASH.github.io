@@ -1,25 +1,8 @@
-# Furuta_Pendulum
-  MECA 482-01 
+# MECA 482-01 
   
-  Furuta Pendulum Project
+##  Furuta Pendulum Project
   
-  By: William Jochum, Alex Lawhon, Brendan Ruddy, Ceara Sobecki, Anthony Van Boekel
-
-## Introduction
-  Description of problem and the system you are proposing(use references)
-## Modeling
-
-## Sensor Calibration
-
-## Simulations
-
-## Checklist
-
-## Appendix
-
-
-# Inertial Wheel Pendulum (IWP)
-#### Dylan Palmer, Megan McKinney, Chris Mintz, Cole Brenner, 2021 Fall, MECA 482
+####  By: William Jochum, Alex Lawhon, Brendan Ruddy, Ceara Sobecki, Anthony Van Boekel
 -----------------------------------------------------------------------------------------
 ## Table of Contents
 - [1. Introduction](#1-Introduction)
