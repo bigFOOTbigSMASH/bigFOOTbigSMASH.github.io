@@ -54,7 +54,7 @@ insert text here
 insert text here
 
 <p align = "center">
-  <img src = "Images/Matlab Simulation Results.png" style="margin:10px 10px">
+  <img src = "Images/Matlab_results.png" style="margin:10px 10px">
 </p>
 
 -----------------------------------------------------------------------------------------
