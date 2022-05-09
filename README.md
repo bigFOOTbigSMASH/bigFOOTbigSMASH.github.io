@@ -15,9 +15,12 @@
 -----------------------------------------------------------------------------------------
 ## 1. Introduction
 
-insert text here
+A classic control system example, that demonstrates the understanding for nonlinear controls laws, is the Furuta Pendulum.
+The format used, to display this project, was CoppeliaSim and Matlab. The pendulum system which rotates freely on a vertical plane, is attached to a driven arm that rotates in a horizontal plane. When the pendulum is placed in the upright position, the actuator rotating the supporting arm will keep it balanced and upright. 
+
 
 <p align = "center">
+  <img src = "Images/FBD_Furuta.PNG" style="margin:10px 10px">
   <img src = "Images/Capabilities Database.PNG" style="margin:10px 10px">
 </p>
 
