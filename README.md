@@ -60,7 +60,7 @@ insert text here
 -----------------------------------------------------------------------------------------
 ## 5. Presentation
 
-Our presentation can be viewed <a href="https://cdmintz.github.io/MECA-482-Inertial-Wheel-Pendulum/#pres">here</a>.
+Our presentation can be viewed <a href="bigfootbigsmash.github.io">here</a>.
 
 -----------------------------------------------------------------------------------------
 ## 6. Refrences
