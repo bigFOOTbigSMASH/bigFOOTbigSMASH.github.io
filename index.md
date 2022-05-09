@@ -58,11 +58,6 @@ insert text here
 </p>
 
 -----------------------------------------------------------------------------------------
-## 5. Presentation
-
-Our presentation can be viewed <a href="bigfootbigsmash.github.io">here</a>.
-
------------------------------------------------------------------------------------------
 ## 6. Refrences
  
  [1] Hernandez-Guzman, V. M., & Silva-Ortizoga, R. (2019). Chapter 16. In Automatic Control with Experiments (pp. 921–950). essay, Springer.
