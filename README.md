@@ -21,7 +21,7 @@ The format used, to display this project, was CoppeliaSim and Matlab. The pendul
 
 <p align = "center">
   <img src = "Images/FBD_Furuta.PNG" style="margin:10px 10px">
-  <img src = "Images/Capabilities Database.PNG" style="margin:10px 10px">
+  <img src = "Images/Capabilities_Database.PNG" style="margin:10px 10px">
 </p>
 
 -----------------------------------------------------------------------------------------
