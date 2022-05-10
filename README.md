@@ -66,9 +66,13 @@ Although the simulation was unsuccessful, the parameters were acquired and the d
 
 <p align = "center">
   <img src = "Images/Matlab_results.png" style="margin:10px 10px">
+</p>
+-----------------------------------------------------------------------------------------
+## 5. Presentation
+
+<p align = "center">
   <iframe src="presentation/Furuta Pendulum Sim.mp4" width="640" height="480" allow="autoplay"> </iframe>
 </p>
-
 -----------------------------------------------------------------------------------------
 ## 6. Refrences
  
