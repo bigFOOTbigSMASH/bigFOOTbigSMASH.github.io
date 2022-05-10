@@ -55,9 +55,13 @@ Motor, arm, encoder, and pendulum are supported by the chassis.
 -----------------------------------------------------------------------------------------
 ## 3. Mathmatical_Modeling
 
-insert text here
- [code](Meca482_FurutaProject_Group3_Matlab.m) 
- insert text here
+<p align = "center">
+  <img src = "Images/Meca482_Simulink.png" style="margin:10px 10px">
+</p>
+Through [simulink](Files/Meca482_FurutaProject_Group3_Simulink.slx), the simulation through Coppelia Sim 
+was linearized to design a full state feedback controller. Followed by validating the control system 
+algorithm.
+
  
 
 -----------------------------------------------------------------------------------------
