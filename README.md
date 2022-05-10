@@ -107,4 +107,8 @@ in order to keep θ_1 within specified values.
 -----------------------------------------------------------------------------------------
 ## 6. Refrences
  
- [1] Hernandez-Guzman, V. M., & Silva-Ortizoga, R. (2019). Chapter 16. In Automatic Control with Experiments (pp. 921–950). essay, Springer.
+Regular API reference. regular API reference. (n.d.). Retrieved May 9, 2022, from https://www.
+coppeliarobotics.com/helpFiles/en/apiFunctions.htm 
+
+Hernández-Guzmán Victor Manuel., & Silva-Ortigoza Ramón. (2019). Automatic control with experiments. 
+Springer International Publishing. 
