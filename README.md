@@ -56,10 +56,9 @@ Motor, arm, encoder, and pendulum are supported by the chassis.
 ## 3. Mathmatical_Modeling
 
 insert text here
- [code](MECA_482_Project_Code.m) 
+ [code](Meca482_FurutaProject_Group3_Matlab.m) 
  insert text here
  
-  In Hernandez-Guzman et. al [1], the derivation of the mathematical model is described in greater detail and provides clarification for each step.
 
 -----------------------------------------------------------------------------------------
 ## 4. Simulation
