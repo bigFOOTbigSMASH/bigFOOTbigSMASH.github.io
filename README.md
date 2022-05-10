@@ -63,7 +63,6 @@ Once a successful connection is achieved, the lua code that will execute the mot
 
 Although the simulation was unsuccessful, the parameters were acquired and the dynamics of the system that were derived. Illustrated in figure above, the pendulum is swung about the y-axis creating the angle θ_1. This angle is interpreted by the origin joint, and depending on the value of θ_1, the joint rotates in order to keep θ_1 within specified values. 
 
-The furuta pendulum has long slender arms, giving the moment of inertia along the axis of its arm to be negligible. The arms also have rotational symmetry, which creates the moment of inertia of the two principal axes to be equal. 
 
 <p align = "center">
   <img src = "Images/Matlab_results.png" style="margin:10px 10px">
