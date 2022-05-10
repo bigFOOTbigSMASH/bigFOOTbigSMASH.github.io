@@ -67,9 +67,8 @@ The furuta pendulum has long slender arms, giving the moment of inertia along th
 
 <p align = "center">
   <img src = "Images/Matlab_results.png" style="margin:10px 10px">
+  <iframe src="presentation/Furuta Pendulum Sim.mp4" width="640" height="480" allow="autoplay"> </iframe>
 </p>
-
-<iframe src="presentation/Furuta Pendulum Sim.mp4" width="640" height="480" allow="autoplay"> </iframe>
 
 -----------------------------------------------------------------------------------------
 ## 6. Refrences
