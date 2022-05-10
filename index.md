@@ -30,23 +30,24 @@ balanced and upright.
 -----------------------------------------------------------------------------------------
 ## 2. Control_System_Design
 
-The logical/function viewpoint follows the data through the system. The controller sends a signal to the 
-driver which amplifies the voltage to provide the necessary power to drive the actuator. The actuator 
-represents the motor which changes the lever arm’s position. The angle encoder tracks position of the 
-pendulum and sends information back to the controller which interprets the data and repeats the process 
-to obtain the necessary position to balance the pendulum in the upright position. Low power source 
-supplies voltage to the controller. High power source supplies the voltage necessary to drive the 
-actuator.
+The logical/function viewpoint follows the data through the system. It describes the functional, 
+physical, and logical architecture. The controller sends a signal to the driver which amplifies the 
+voltage to provide the necessary power to drive the actuator. The actuator represents the motor which 
+changes the lever arm’s position. The angle encoder tracks position of the pendulum and sends information 
+back to the controller which interprets the data and repeats the process to obtain the necessary position 
+to balance the pendulum in the upright position. Low power source supplies voltage to the controller. 
+High power source supplies the voltage necessary to drive the actuator.
 
 
 <p align = "center">
   <img src = "Images/Logical.png" style="margin:10px 10px">
 </p>
 
-Operational Viewpoint provides a visual representation of a system and describes how the physical 
-components of the system interact with one another. The image below shows the operational viewpoint of 
-the furuta pendulum. The motor controls the pendulum arm which supports the freely rotating pendulum. 
-Motor, arm, encoder, and pendulum are supported by the chassis.
+Operational Viewpoints provide a visual representation of a system and describe how the physical 
+components of the system interact with one another as well as the systems key characteristics. The image 
+below shows the operational viewpoint of the furuta pendulum. The motor controls the pendulum arm which 
+supports the freely rotating pendulum. Motor, arm, encoder, and pendulum are supported by the chassis.   
+
 
 <p align = "center">
   <img src = "Images/Operational.png" style="margin:10px 10px">
@@ -89,7 +90,7 @@ was not feasible in the allotted time period. Therefore, the results of the simu
 successful in achieving a self balanced pendulum.
 
 <p align = "center">
-  <img src = "Images/FBD_Furuta.png" style="margin:10px 10px">
+  <img src = "Images/FBD_Furuta.PNG" style="margin:10px 10px">
 </p>
 
 Although the simulation was unsuccessful, the parameters were acquired and the dynamics of the system 
