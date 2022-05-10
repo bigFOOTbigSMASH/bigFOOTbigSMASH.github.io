@@ -26,16 +26,17 @@ The format used, to display this project, was CoppeliaSim and Matlab. The pendul
 -----------------------------------------------------------------------------------------
 ## 2. Control_System_Design
 
-insert text here
+The logical/function viewpoint follows the data through the system. The controller sends a signal to the driver which amplifies the voltage to provide the necessary power to drive the actuator. The actuator represents the motor which changes the lever arm’s position. The angle encoder tracks position of the pendulum and sends information back to the controller which interprets the data and repeats the process to obtain the necessary position to balance the pendulum in the upright position. Low power source supplies voltage to the controller. High power source supplies the voltage necessary to drive the actuator.
+
 
 <p align = "center">
-  <img src = "Images/Mech_482_Diagrams-Operational Viewpoint Diagram.drawio.png" style="margin:10px 10px">
+  <img src = "Images/Logical.png" style="margin:10px 10px">
 </p>
 
-insert text here
+Operational Viewpoint provides a visual representation of a system and describes how the physical components of the system interact with one another. The image below shows the operational viewpoint of the furuta pendulum. The motor controls the pendulum arm which supports the freely rotating pendulum. Motor, arm, encoder, and pendulum are supported by the chassis.
 
 <p align = "center">
-  <img src = "Images/Mech_482_Diagrams-Logical Functional Diagram.drawio.png" style="margin:10px 10px">
+  <img src = "Images/Operational.png" style="margin:10px 10px">
 </p>
 
 -----------------------------------------------------------------------------------------
