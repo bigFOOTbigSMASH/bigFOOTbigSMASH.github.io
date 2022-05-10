@@ -20,7 +20,6 @@ The format used, to display this project, was CoppeliaSim and Matlab. The pendul
 
 
 <p align = "center">
-  <img src = "Images/FBD_Furuta.PNG" style="margin:10px 10px">
   <img src = "Images/Capabilities_Database.PNG" style="margin:10px 10px">
 </p>
 
@@ -51,7 +50,19 @@ insert text here
 -----------------------------------------------------------------------------------------
 ## 4. Simulation
 
-insert text here
+The virtual reality environment program Coppelia Sim allows the user to model in 3D space and simulate that model in real life dynamic simulation. The model can be programmed using Python or a proprietary programming language “lua”. Lua is a similar language to MATLAB that utilizes conditional statements to execute various movements in the 3D space. The program can also be linked to MATLAB to allow users to utilize MATLAB’s language, which allows for a broader spectrum of users. 
+
+The user can connect the two programs using a specific set of  files that are included with the download of Coppelia Sim. Within the Coppelia Sim program files, there are four files (remApi.m, remoteApi.dll, remoteApiProto.m, simpleTest.m) that must be grouped together in one folder in order to connect MATLAB and Coppelia Sim. These [files](/Files) are listed and can be downloaded from the “Files” section. Once these files are collected, the sampleTest.m file must be opened in MATLAB and the instructions listed must be followed in order to guarantee a successful connection of the two programs. 
+
+Once a successful connection is achieved, the lua code that will execute the motion of the pendulum inside Coppelia Sim, must be added to the designated block within the MATLAB program. However, after extensive research, utilizing numerous online resources, textbooks and Coppelia Sim forums, creating a complex lua program such as this was unsuccessful. Gaining a full understanding of the required language was not feasible in the allotted time period. Therefore, the results of the simulation were not successful in achieving a self balanced pendulum.
+
+<p align = "center">
+  <img src = "Images/FBD_Furuta.png" style="margin:10px 10px">
+</p>
+
+Although the simulation was unsuccessful, the parameters were acquired and the dynamics of the system that were derived. Illustrated in figure above, the pendulum is swung about the y-axis creating the angle θ_1. This angle is interpreted by the origin joint, and depending on the value of θ_1, the joint rotates in order to keep θ_1 within specified values. 
+
+The furuta pendulum has long slender arms, giving the moment of inertia along the axis of its arm to be negligible. The arms also have rotational symmetry, which creates the moment of inertia of the two principal axes to be equal. 
 
 <p align = "center">
   <img src = "Images/Matlab_results.png" style="margin:10px 10px">
