@@ -113,7 +113,7 @@ the two principal axes to be equal.
 ## 6. Planning
 
 <p align = "center">
-  <img src = "Images/gantt_chart.png" style="margin:10px 10px">
+  <img src = "Images/gantt_chart_v2.png" style="margin:10px 10px">
 </p>
 
 
