@@ -7,11 +7,10 @@
 ## Table of Contents
 - [1. Introduction](#1-Introduction)
 - [2. Control System Design](#2-Control_System_Design)
-- [3. Mathmatical Modeling](#3-Mathmatical_Modeling)
+- [3. Mathematical Modeling](#3-Mathematical_Modeling)
 - [4. Simulation](#4-Simulation)
-- [5. Presentation](#5-Presentation)
-- [6. Planning](#6-Planning)
-- [7. Refrences](#7-Refrences)
+- [5. Planning](#5-Planning)
+- [6. Refrences](#6-Refrences)
 
 -----------------------------------------------------------------------------------------
 ## 1. Introduction
@@ -55,7 +54,7 @@ supports the freely rotating pendulum. Motor, arm, encoder, and pendulum are sup
 </p>
 
 -----------------------------------------------------------------------------------------
-## 3. Mathmatical_Modeling
+## 3. Mathematical_Modeling
 
 The matlab in the files folder at the top of the page presents the following root locus plots for 
 an open and closed loop transfer function mathematical model. The results in the command window 
@@ -105,10 +104,6 @@ of θ_1, the joint rotates in order to keep θ_1 within specified values.
 The furuta pendulum has long slender arms, giving the moment of inertia along the axis of its arm 
 to be negligible. The arms also have rotational symmetry, which creates the moment of inertia of 
 the two principal axes to be equal. 
-
-
------------------------------------------------------------------------------------------
-## 5. Presentation
 
 <p align = "center">
 <iframe src="presentation/Furuta Pendulum Sim.mp4" width="640" height="480" allow="autoplay"></iframe>
