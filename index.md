@@ -6,8 +6,8 @@
 -----------------------------------------------------------------------------------------
 ## Table of Contents
 - [1. Introduction](#1-Introduction)
-- [2. Control System Design](#2-Control System Design)
-- [3. Mathematical Modeling](#3-Mathematical Modeling)
+- [2. Control System Design](#2-Control_System_Design)
+- [3. Mathematical Modeling](#3-Mathematical_Modeling)
 - [4. Simulation](#4-Simulation)
 - [5. Planning](#5-Planning)
 - [6. Refrences](#6-Refrences)
