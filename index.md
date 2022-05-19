@@ -10,7 +10,8 @@
 - [3. Mathmatical Modeling](#3-Mathmatical_Modeling)
 - [4. Simulation](#4-Simulation)
 - [5. Presentation](#5-Presentation)
-- [6. Refrences](#6-Refrences)
+- [6. Planning](#6-Planning)
+- [7. Refrences](#7-Refrences)
 
 -----------------------------------------------------------------------------------------
 ## 1. Introduction
@@ -112,8 +113,15 @@ the two principal axes to be equal.
 <p align = "center">
 <iframe src="presentation/Furuta Pendulum Sim.mp4" width="640" height="480" allow="autoplay"></iframe>
 </p>
+
 -----------------------------------------------------------------------------------------
-## 6. Refrences
+## 6. Planning
+
+
+
+
+-----------------------------------------------------------------------------------------
+## 7. Refrences
  
 Regular API reference. regular API reference. (n.d.). Retrieved May 9, 2022, from https://www.
 coppeliarobotics.com/helpFiles/en/apiFunctions.htm 
