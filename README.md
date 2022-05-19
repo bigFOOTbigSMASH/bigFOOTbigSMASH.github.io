@@ -104,6 +104,8 @@ of θ_1, the joint rotates in order to keep θ_1 within specified values.
 The furuta pendulum has long slender arms, giving the moment of inertia along the axis of its arm 
 to be negligible. The arms also have rotational symmetry, which creates the moment of inertia of 
 the two principal axes to be equal. 
+
+
 -----------------------------------------------------------------------------------------
 ## 5. Presentation
 
