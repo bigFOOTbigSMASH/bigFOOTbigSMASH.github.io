@@ -28,7 +28,7 @@ balanced and upright.
 </p>
 
 -----------------------------------------------------------------------------------------
-## 2. Control System Design
+## 2. Control_System_Design
 
 The logical/function viewpoint follows the data through the system. It describes the functional, 
 physical, and logical architecture. The controller sends a signal to the driver which amplifies the 
@@ -54,7 +54,7 @@ supports the freely rotating pendulum. Motor, arm, encoder, and pendulum are sup
 </p>
 
 -----------------------------------------------------------------------------------------
-## 3. Mathematical Modeling
+## 3. Mathematical_Modeling
 
 The matlab in the files folder at the top of the page presents the following root locus plots for 
 an open and closed loop transfer function mathematical model. The results in the command window 
