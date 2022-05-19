@@ -2,7 +2,7 @@
 
 % Anthony Van Boekel
 % Will Jochum
-% Alexander Lawhorn
+% Alexander Lawhon
 % Brendan Ruddy
 % Ceara Sobecki
 
