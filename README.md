@@ -79,8 +79,7 @@ linked to MATLAB to allow users to utilize MATLAB’s language, which allows for
 of users. 
 
 The user can connect the two programs using a specific set of  files that are included with the 
-download of Coppelia Sim. Within the Coppelia Sim program files, there are four [files](https://
-github.com/bigFOOTbigSMASH/bigFOOTbigSMASH.github.io/tree/main/Files/File_Linked) that must be 
+download of Coppelia Sim. Within the Coppelia Sim program files, there are four [files](https://github.com/bigFOOTbigSMASH/bigFOOTbigSMASH.github.io/tree/main/Files/File_Linked) that must be 
 grouped together in one folder in order to connect MATLAB and Coppelia Sim. These files are listed 
 and can be downloaded from the “Files” section. Once these files are collected, the sampleTest.m 
 file must be opened in MATLAB and the instructions listed must be followed in order to guarantee a 
