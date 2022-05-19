@@ -92,7 +92,6 @@ forums, creating a complex lua program such as this was unsuccessful. Gaining a 
 of the required language was not feasible in the allotted time period. Therefore, the results of 
 the simulation were not successful in achieving a self balanced pendulum.
 
-
 <p align = "center">
   <img src = "Images/FBD_Furuta.PNG" style="margin:10px 10px">
 </p>
@@ -118,5 +117,8 @@ of θ_1, the joint rotates in order to keep θ_1 within specified values.
 Regular API reference. regular API reference. (n.d.). Retrieved May 9, 2022, from https://www.
 coppeliarobotics.com/helpFiles/en/apiFunctions.htm 
 
-Hernández-Guzmán Victor Manuel., & Silva-Ortigoza Ramón. (2019). Automatic control with experiments. 
+Hernández-Guzmán Victor Manuel., & Silva-Ortigoza Ramón. (2019). Automatic control with 
+experiments. 
 Springer International Publishing. 
+
+[Github Link](https://github.com/bigFOOTbigSMASH/bigFOOTbigSMASH.github.io)
