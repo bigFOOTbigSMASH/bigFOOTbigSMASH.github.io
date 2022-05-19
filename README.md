@@ -101,10 +101,9 @@ system that were derived. Illustrated in figure above, the pendulum is swung abo
 creating the angle θ_1. This angle is interpreted by the origin joint, and depending on the value 
 of θ_1, the joint rotates in order to keep θ_1 within specified values. 
 
-
-<p align = "center">
-  <img src = "Images/Matlab_results.png" style="margin:10px 10px">
-</p>
+The furuta pendulum has long slender arms, giving the moment of inertia along the axis of its arm 
+to be negligible. The arms also have rotational symmetry, which creates the moment of inertia of 
+the two principal axes to be equal. 
 -----------------------------------------------------------------------------------------
 ## 5. Presentation
 
