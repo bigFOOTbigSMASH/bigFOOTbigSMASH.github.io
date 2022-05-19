@@ -73,7 +73,7 @@ function calculates its own overshoot and settling time from the open loop resul
 
 The virtual reality environment program Coppelia Sim allows the user to model in 3D space and 
 simulate that model in real life dynamic simulation. The model can be programmed using Python or a 
-proprietary programming language “lua”. Lua is a similar language to MATLAB that utilizes 
+proprietary programming language “Lua”. Lua is a similar language to MATLAB that utilizes 
 conditional statements to execute various movements in the 3D space. The program can also be 
 linked to MATLAB to allow users to utilize MATLAB’s language, which allows for a broader spectrum 
 of users. 
@@ -126,5 +126,8 @@ coppeliarobotics.com/helpFiles/en/apiFunctions.htm
 Hernández-Guzmán Victor Manuel., & Silva-Ortigoza Ramón. (2019). Automatic control with 
 experiments. 
 Springer International Publishing. 
+
+Apkarian, J., Karam, P., & Lévis, M. (n.d.). Rotary Pendulum Workbook (Student). Markham, Ontario;
+Quanser Inc. 
 
 [Github Link](https://github.com/bigFOOTbigSMASH/bigFOOTbigSMASH.github.io)
